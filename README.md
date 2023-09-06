@@ -9,11 +9,11 @@ The Vesc-Shield is a remarkable open-source shield designed for effortless integ
 1. **Streamlined Connectivity:** Utilizes a single ribbon cable connection to Dspace, consolidating all essential signals for a tidy and efficient setup.<br/>
 1. **Informative LEDs:** Equipped with LEDs that display vital information, including power status, enable/disable status, and index reset, ensuring at-a-glance monitoring and feedback.<br/>
 
-## Schematics
+# Schematics
 <img align="left" src="https://github.com/Kunalverma1502/Vesc-Shield/blob/main/Images/Schematic%202.png" width="1100" height="800"/><br/>
 <br/>
 <br/>
 
-## Board 
+# Board 
 <img align="left" src="https://github.com/Kunalverma1502/Vesc-Shield/blob/main/Images/Board.png" width="400" height="480"/>
 <img align="left" src="https://github.com/Kunalverma1502/Vesc-Shield/blob/main/Images/Schematic%202.png" width="1100" height="800"/>
