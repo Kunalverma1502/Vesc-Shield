@@ -16,4 +16,4 @@ The Vesc-Shield is a remarkable open-source shield designed for effortless integ
 
 # Board 
 <img align="left" src="https://github.com/Kunalverma1502/Vesc-Shield/blob/main/Images/Board.png" width="400" height="480"/>
-<img align="left" src="https://github.com/Kunalverma1502/Vesc-Shield/blob/main/Images/Schematic%202.png" width="1100" height="800"/>
+<img align="left" src="https://github.com/Kunalverma1502/Vesc-Shield/blob/main/Images/Parts%20Placement.png" width="400" height="480"/>
