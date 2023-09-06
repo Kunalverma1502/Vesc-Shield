@@ -10,7 +10,7 @@ The Vesc-Shield is a remarkable open-source shield designed for effortless integ
 1. **Informative LEDs:** Equipped with LEDs that display vital information, including power status, enable/disable status, and index reset, ensuring at-a-glance monitoring and feedback.<br/>
 
 ## Schematics
-<img align="left" src="https://github.com/Kunalverma1502/esp32-mini-drone/blob/master/IMAGES/Drone Rotate.gif" width="480" height="480"/>
+<img align="left" src="https://github.com/Kunalverma1502/Vesc-Shield/blob/main/Images/Schematics.png" width="480" height="480"/>
 
 
 
