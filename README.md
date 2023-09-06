@@ -4,6 +4,12 @@ The Vesc-Shield is a remarkable open-source shield designed for effortless integ
 <br/>
 
 # Features ⚙️
+1)Enhanced Motor Encoder Output: Amplifies motor encoder output signals for both Vesc and Dspace, ensuring optimal performance and precision.
+2)Effortless Position Reset: Facilitates easy and precise index position resetting, whether through digital or manual methods.
+3)Motor Driver Control: Provides the capability to enable or disable the motor driver with simplicity and efficiency.
+4)Streamlined Connectivity: Utilizes a single ribbon cable connection to Dspace, consolidating all essential signals for a tidy and efficient setup.
+5)Informative LEDs: Equipped with LEDs that display vital information, including power status, enable/disable status, and index reset, ensuring at-a-glance monitoring and feedback.
+
 
 ## Designs
 
