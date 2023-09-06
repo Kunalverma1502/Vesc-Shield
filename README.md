@@ -11,8 +11,8 @@ The Vesc-Shield is a remarkable open-source shield designed for effortless integ
 
 ## Schematics
 <img align="left" src="https://github.com/Kunalverma1502/Vesc-Shield/blob/main/Images/Schematics.png" width="480" height="480"/>
-
-
+<br/>
+<br/>
 
 ### 3D CAD
 
