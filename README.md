@@ -2,8 +2,8 @@
 
 The Vesc-Shield is a remarkable open-source shield designed for effortless integration with the Flipsky Vesc 6.7 Pro. By doing so, it enables cost-effective utilization in a wide range of robotic applications while affording precise driver control through the seamless integration of Dspace.
 <br/>
-[bootloader]([https://github.com/vedderb/bldc-bootloader](https://flipsky.net/products/flipsky-mini-fsesc6-7-pro-70a-base-on-vesc6-6-with-aluminum-anodized-heat-sink?variant=42664011956465&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gad=1&gclid=CjwKCAjwo9unBhBTEiwAipC110jtGEOlnNmrO9Tqul8LjfJ8Tr05fPZSuTm81KGfPlVTePEtUpiYyBoCPOYQAvD_BwE))
-"https://flipsky.net/products/flipsky-mini-fsesc6-7-pro-70a-base-on-vesc6-6-with-aluminum-anodized-heat-sink?variant=42664011956465&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gad=1&gclid=CjwKCAjwo9unBhBTEiwAipC110jtGEOlnNmrO9Tqul8LjfJ8Tr05fPZSuTm81KGfPlVTePEtUpiYyBoCPOYQAvD_BwE" 
+[bootloader](https://flipsky.net/products/flipsky-mini-fsesc6-7-pro-70a-base-on-vesc6-6-with-aluminum-anodized-heat-sink?variant=42664011956465&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gad=1&gclid=CjwKCAjwo9unBhBTEiwAipC110jtGEOlnNmrO9Tqul8LjfJ8Tr05fPZSuTm81KGfPlVTePEtUpiYyBoCPOYQAvD_BwE)
+
 
 # Hardware ⚙️
 
